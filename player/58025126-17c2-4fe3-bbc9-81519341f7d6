@@ -1,0 +1,20 @@
+{ 
+   "uuid":"58025126-17c2-4fe3-bbc9-81519341f7d6",
+   "username":null,
+   "cosmetics":{ 
+      "purple":{ 
+         "name":"purple",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"http://api.arcaneclient.cf/capes/purple.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"http://api.arcaneclient.cf/wings/black_wings.png"
+      }
+   }
+}
