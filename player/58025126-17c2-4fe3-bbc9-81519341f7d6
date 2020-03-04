@@ -7,14 +7,14 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"http://api.arcaneclient.cf/capes/purple.png"
+         "resourceLocation":"https://github.com/ArcaneCiCi/Public-Cosmetics/blob/master/cosmetics/cbblack.png"
 },
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"http://api.arcaneclient.cf/wings/black_wings.png"
+         "resourceLocation":"https://github.com/ArcaneCiCi/Public-Cosmetics/blob/master/cosmetics/black.png"
       }
    }
 }
