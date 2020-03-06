@@ -1,1 +1,3 @@
-#Aodus Client API For Cosmetics.
+Public-Cosmetics
+
+Client Cosmetics For Cheat Breaker Reskin.
