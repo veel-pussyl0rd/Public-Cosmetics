@@ -1,0 +1,20 @@
+{ 
+   "uuid":"d9c7b72a-d236-484a-b622-ddf6edea6d79",
+   "username":NiggMan1,
+   "cosmetics":{ 
+      "goldenappledark":{ 
+         "name":"goldenappledark",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://github.com/Serversided/Public-Cosmetics/blob/master/cosmetics/goldenappledark.png"
+},
+      "bone":{ 
+         "name":"bone",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://github.com/Serversided/Public-Cosmetics/blob/master/cosmetics/bone.png"
+      }
+   }
+}
