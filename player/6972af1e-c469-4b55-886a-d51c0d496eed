@@ -1,0 +1,20 @@
+{ 
+   "uuid":"6972af1e-c469-4b55-886a-d51c0d496eed",
+   "username":desabafo,
+   "cosmetics":{ 
+      "marcel":{ 
+         "name":"marcel",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/marcel.png"
+},
+      "betacape":{ 
+         "name":"betacape",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/betacape.png"
+      }
+   }
+}
