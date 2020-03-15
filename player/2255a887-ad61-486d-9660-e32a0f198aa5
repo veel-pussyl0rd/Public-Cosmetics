@@ -1,0 +1,20 @@
+{ 
+   "uuid":"2255a887-ad61-486d-9660-e32a0f198aa5",
+   "username":BBKGAMING41,
+   "cosmetics":{ 
+      "Hannahxxrose2":{ 
+         "name":"Hannahxxrose2",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/Hannahxxrose2.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/black.png"
+      }
+   }
+}
