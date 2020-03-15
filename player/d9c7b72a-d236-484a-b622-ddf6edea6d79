@@ -6,14 +6,14 @@
          "name":"clowncape",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/clowncape.png"
 },
       "clown":{ 
          "name":"clown",
          "type":"dragon_wings",
          "scale":0.15,
-         "active":false,
+         "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/clown.png"
       }
    }
