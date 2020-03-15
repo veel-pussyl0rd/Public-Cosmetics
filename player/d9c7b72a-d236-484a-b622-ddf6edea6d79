@@ -9,12 +9,26 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/heart1.png"
 },
+      "clowncape":{ 
+         "name":"clowncape",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/clowncape.png"
+},
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/black.png"
+},
+      "clown":{ 
+         "name":"clown",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/clown.png"
       }
    }
 }
