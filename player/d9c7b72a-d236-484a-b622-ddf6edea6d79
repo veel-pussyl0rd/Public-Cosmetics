@@ -2,19 +2,19 @@
    "uuid":"d9c7b72a-d236-484a-b622-ddf6edea6d79",
    "username":NiggMan1,
    "cosmetics":{ 
-      "goldenappledark":{ 
-         "name":"goldenappledark",
+      "heart1":{ 
+         "name":"heart1",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://github.com/Serversided/Public-Cosmetics/blob/master/cosmetics/goldenappledark.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/heart1.png"
 },
-      "bone":{ 
-         "name":"bone",
+      "black":{ 
+         "name":"black",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://github.com/Serversided/Public-Cosmetics/blob/master/cosmetics/bone.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/black.png"
       }
    }
 }
