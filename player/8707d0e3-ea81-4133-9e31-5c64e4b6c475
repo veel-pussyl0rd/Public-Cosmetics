@@ -2,12 +2,12 @@
    "uuid":"8707d0e3-ea81-4133-9e31-5c64e4b6c475",
    "username":TierV,
    "cosmetics":{ 
-      "teamsmap4":{ 
-         "name":"teamsmap4",
+      "420":{ 
+         "name":"420",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/teamsmap4.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/420.png"
 },
       "black":{ 
          "name":"black",
