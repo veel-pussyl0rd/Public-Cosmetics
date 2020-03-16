@@ -1,0 +1,13 @@
+{ 
+   "uuid":"9d4f9479-b32c-4526-858a-1501ee412b36",
+   "username":NitrekZ,
+   "cosmetics":{ 
+      "cb":{ 
+         "name":"cb",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/cb.png"
+      }
+   }
+}
