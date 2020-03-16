@@ -1,11 +1,20 @@
 { 
    "uuid":"3d1a6175-a795-490a-9aaf-5e8c7b43670a",
-   "username":Metrologista,
+   "username":TenhoC0RONA,
    "cosmetics":{ 
       "faze":{ 
          "name":"faze",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://github.com/Serversided/Public-Cosmetics/blob/master/cosmetics/capes/faze.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/faze.png"
 },
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+		 "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/red.png"
+      }
+   }
+}
