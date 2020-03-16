@@ -1,0 +1,20 @@
+{ 
+   "uuid":"5c35c740-e143-41d9-8562-f967be56a1c2",
+   "username":Bankrol,
+   "cosmetics":{ 
+      "clowncape":{ 
+         "name":"trey",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/blob/master/cosmetics/capes/trey.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/blob/master/cosmetics/wings/black.png"
+      }
+   }
+}
