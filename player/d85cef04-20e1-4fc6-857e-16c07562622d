@@ -1,0 +1,13 @@
+{ 
+   "uuid":"d85cef04-20e1-4fc6-857e-16c07562622d",
+   "username":xLqne,
+   "cosmetics":{ 
+      "blackvalentineheart":{ 
+         "name":"blackvalentineheart",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/blackvalentineheart.png"
+      }
+   }
+}
