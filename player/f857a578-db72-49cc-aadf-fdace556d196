@@ -1,0 +1,20 @@
+{ 
+   "uuid":"f857a578-db72-49cc-aadf-fdace556d196",
+   "username":IronicLOL,
+   "cosmetics":{ 
+      "cb":{ 
+         "name":"cb",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/cb.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/black.png"
+      }
+   }
+}
