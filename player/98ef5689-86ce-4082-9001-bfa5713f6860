@@ -1,0 +1,13 @@
+{ 
+   "uuid":"98ef5689-86ce-4082-9001-bfa5713f6860",
+   "username":iVisualize,
+   "cosmetics":{ 
+      "gold":{ 
+         "name":"gold",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/gold.png"
+      }
+   }
+}
