@@ -7,7 +7,7 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/lunar_client_5.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/lunar_client_5.png"
 },
       "black":{ 
          "name":"black",
