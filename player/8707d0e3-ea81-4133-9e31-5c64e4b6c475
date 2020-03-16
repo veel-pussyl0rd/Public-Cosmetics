@@ -2,12 +2,12 @@
    "uuid":"8707d0e3-ea81-4133-9e31-5c64e4b6c475",
    "username":TierV,
    "cosmetics":{ 
-      "420":{ 
-         "name":"420",
+      "viperblack":{ 
+         "name":"viperblack",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/420.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/viperblack.png"
 },
       "black":{ 
          "name":"black",
