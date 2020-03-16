@@ -1,0 +1,11 @@
+{ 
+   "uuid":"3d1a6175-a795-490a-9aaf-5e8c7b43670a",
+   "username":Metrologista,
+   "cosmetics":{ 
+      "faze":{ 
+         "name":"faze",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://github.com/Serversided/Public-Cosmetics/blob/master/cosmetics/capes/faze.png"
+},
