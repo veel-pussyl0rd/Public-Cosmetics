@@ -2,12 +2,12 @@
    "uuid":"8707d0e3-ea81-4133-9e31-5c64e4b6c475",
    "username":TierV,
    "cosmetics":{ 
-      "season3debuff":{ 
-         "name":"season3debuff",
+      "lunar_client_5":{ 
+         "name":"lunar_client_5",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/season3debuff.png"
+         "resourceLocation":https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/lunar_client_5.png"
 },
       "black":{ 
          "name":"black",
