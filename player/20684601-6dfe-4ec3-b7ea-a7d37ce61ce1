@@ -1,0 +1,11 @@
+{ 
+   "uuid":"20684601-6dfe-4ec3-b7ea-a7d37ce61ce1",
+   "username":LudicrousPowerL,
+   "cosmetics":{ 
+      "zonixwhite":{ 
+         "name":"zonixwhite",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://github.com/Serversided/Public-Cosmetics/blob/master/cosmetics/capes/zonixwhite.png"
+},
