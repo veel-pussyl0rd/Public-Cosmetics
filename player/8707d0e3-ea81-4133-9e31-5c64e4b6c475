@@ -2,12 +2,12 @@
    "uuid":"8707d0e3-ea81-4133-9e31-5c64e4b6c475",
    "username":TierV,
    "cosmetics":{ 
-      "lunar_client_5":{ 
-         "name":"lunar_client_5",
+      "teamsmap4":{ 
+         "name":"teamsmap4",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/lunar_client_5.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/teamsmap4.png"
 },
       "black":{ 
          "name":"black",
