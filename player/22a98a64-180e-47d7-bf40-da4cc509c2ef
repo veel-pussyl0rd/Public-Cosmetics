@@ -1,0 +1,13 @@
+{ 
+   "uuid":"22a98a64-180e-47d7-bf40-da4cc509c2ef",
+   "username":Turben,
+   "cosmetics":{ 
+      "goldenappledark":{ 
+         "name":"goldenappledark",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/goldenappledark.png"
+      }
+   }
+}
