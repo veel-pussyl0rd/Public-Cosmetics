@@ -1,0 +1,27 @@
+{ 
+   "uuid":"a6b34d61-c122-4349-a97d-d16dd6c22be3",
+   "username":duziy,
+   "cosmetics":{ 
+      "betacape":{ 
+         "name":"betacape",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/betacape.png"
+},
+	  "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/youtube.png"
+},
+      "bone":{ 
+         "name":"bone",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/bone.png"
+      }
+   }
+}
