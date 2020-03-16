@@ -2,19 +2,19 @@
    "uuid":"2233effe-3903-4d72-95fe-59f72d97a054",
    "username":Disky,
    "cosmetics":{ 
-      "viperorange":{ 
-         "name":"viperorange",
+      "twitch":{ 
+         "name":"twitch",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/viperorange.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/twitch.png"
 },
-      "orange":{ 
-         "name":"orange",
+      "purple":{ 
+         "name":"purple",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/orange.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/purple.png"
       }
    }
 }
