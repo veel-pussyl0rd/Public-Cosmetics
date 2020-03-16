@@ -1,0 +1,20 @@
+{ 
+   "uuid":"35f74c08-4557-4cae-a3dd-fffd69c14456",
+   "username":Dwiz,
+   "cosmetics":{ 
+      "faze_2":{ 
+         "name":"faze_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/faze_2.png"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/red.png"
+      }
+   }
+}
