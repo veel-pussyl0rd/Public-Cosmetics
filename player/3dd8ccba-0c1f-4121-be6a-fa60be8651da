@@ -1,0 +1,13 @@
+{ 
+   "uuid":"3dd8ccba-0c1f-4121-be6a-fa60be8651da",
+   "username":xdSeizure,
+   "cosmetics":{ 
+      "marcel":{ 
+         "name":"marcel",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/marcel.png"
+      }
+   }
+}
