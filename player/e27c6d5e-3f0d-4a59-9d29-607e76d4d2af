@@ -1,0 +1,13 @@
+{ 
+   "uuid":"e27c6d5e-3f0d-4a59-9d29-607e76d4d2af",
+   "username":JimJim623,
+   "cosmetics":{ 
+      "viperblue":{ 
+         "name":"viperblue",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/viperblue.png"
+      }
+   }
+}
