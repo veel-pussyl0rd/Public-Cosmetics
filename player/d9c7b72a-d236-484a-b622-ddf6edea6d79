@@ -2,19 +2,19 @@
    "uuid":"d9c7b72a-d236-484a-b622-ddf6edea6d79",
    "username":NiggMan1,
    "cosmetics":{ 
-      "clowncape":{ 
-         "name":"clowncape",
+      "bakasweed":{ 
+         "name":"bakasweed",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/clowncape.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/bakasweed.png"
 },
-      "clown":{ 
-         "name":"clown",
+      "green":{ 
+         "name":"green",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/clown.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/green.png"
       }
    }
 }
