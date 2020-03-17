@@ -2,12 +2,12 @@
    "uuid":"5c35c740-e143-41d9-8562-f967be56a1c2",
    "username":Bankrol,
    "cosmetics":{ 
-      "hearts":{ 
-         "name":"hearts",
+      "trey":{ 
+         "name":"trey",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"hhttps://raw.githubusercontent.com/Serversided/Public-Cosmetics/blob/master/cosmetics/capes/valentinehearts2.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/trey.png"
 },
       "black":{ 
          "name":"black",
