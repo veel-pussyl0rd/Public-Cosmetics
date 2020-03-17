@@ -5,7 +5,7 @@
       "bakasweed":{ 
          "name":"bakasweed",
          "type":"cape",
-         "scale":0.1,
+         "scale":0.01,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/bakasweed.png"
       }
