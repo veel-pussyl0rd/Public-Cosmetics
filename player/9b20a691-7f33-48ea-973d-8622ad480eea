@@ -2,12 +2,12 @@
    "uuid":"9b20a691-7f33-48ea-973d-8622ad480eea",
    "username":qjz,
    "cosmetics":{ 
-      "goldenappledark":{ 
-         "name":"goldenappledark",
+      "lunarnetwork":{ 
+         "name":"lunarnetwork",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/goldenappledark.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/lunar_network_2.png"
       }
    }
 }
