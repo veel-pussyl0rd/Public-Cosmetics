@@ -1,0 +1,20 @@
+{ 
+   "uuid":"08e171f0-0315-49a3-a146-9f503d731747",
+   "username":GS96Jeffry,
+   "cosmetics":{ 
+      "trey":{ 
+         "name":"guatemala",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/guatemala.png"
+},
+      "indigo":{ 
+         "name":"indigo",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/indigo.png"
+      }
+   }
+}
