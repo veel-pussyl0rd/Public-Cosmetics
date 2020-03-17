@@ -1,0 +1,13 @@
+{ 
+   "uuid":"1da813ff-75e5-440e-ab50-f3a030b604cd",
+   "username":seizurelol,
+   "cosmetics":{ 
+      "firework":{ 
+         "name":"firework",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/blob/master/cosmetics/capes/firework.png"
+      }
+   }
+}
