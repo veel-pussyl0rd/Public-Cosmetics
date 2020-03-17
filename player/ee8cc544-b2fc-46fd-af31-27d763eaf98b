@@ -1,0 +1,13 @@
+{ 
+   "uuid":"ee8cc544-b2fc-46fd-af31-27d763eaf98b",
+   "username":BAKAWAKAA,
+   "cosmetics":{ 
+	  "youtube_1":{ 
+         "name":"youtube_1",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/youtube_1.png"
+      }
+   }
+}
