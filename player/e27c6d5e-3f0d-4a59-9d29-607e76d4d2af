@@ -6,8 +6,22 @@
          "name":"viperblue",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/viperblue.png"
+},
+     "butterfly_2":{ 
+         "name":"butterfly_2",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/butterfly_2.png"
+},
+	  "clownemoji":{ 
+         "name":"clownemoji",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/clownemoji.png"
       }
    }
 }
