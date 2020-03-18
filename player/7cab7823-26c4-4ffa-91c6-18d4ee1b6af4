@@ -1,1 +1,27 @@
-
+{ 
+   "uuid":"7cab7823-26c4-4ffa-91c6-18d4ee1b6af4",
+   "username":null,
+   "cosmetics":{ 
+      "marcel":{ 
+         "name":"valentine_cape_4",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/valentine_cape_4.png"
+},
+      "betacape":{ 
+         "name":"meezoid",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/meezoid.png"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/red.png"
+      }
+   }
+}
