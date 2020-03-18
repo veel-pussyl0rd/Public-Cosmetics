@@ -15,6 +15,13 @@
          "scale":0.15,
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/green.png"
+},
+      "bone":{ 
+         "name":"bonep",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/bone.png"
       }
    }
 }
