@@ -22,13 +22,6 @@
          "scale":0.15,
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/bone.png"
-},
-      "darkgreen":{ 
-         "name":"darkgreen",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/darkgreen.png"
       }
    }
 }
