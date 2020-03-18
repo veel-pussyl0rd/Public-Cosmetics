@@ -2,12 +2,12 @@
    "uuid":"ee8cc544-b2fc-46fd-af31-27d763eaf98b",
    "username":BAKAWAKAA,
    "cosmetics":{ 
-      "bakasweed":{ 
-         "name":"bakasweed",
+      "bakasweed2":{ 
+         "name":"bakasweed2",
          "type":"cape",
          "scale":0.01,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/bakasweed.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/bakasweed2.png"
       }
    }
 }
