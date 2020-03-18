@@ -29,13 +29,6 @@
          "scale":0.15,
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/darkgreen.png"
-},
-      "lyrical":{ 
-         "name":"lyrical",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/lyrical.png"
       }
    }
 }
