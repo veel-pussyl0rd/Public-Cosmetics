@@ -9,14 +9,14 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/netherlands.png"
 },
-	"red":{ 
+      "red":{ 
          "name":"red",
          "type":"dragon_wings",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/red.png"
 },
-	"black":{ 
+      "black":{ 
          "name":"black",
          "type":"dragon_wings",
          "scale":0.16,
