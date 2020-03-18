@@ -6,7 +6,7 @@
          "name":"bakasweed",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/bakasweed.png"
 },
       "green":{ 
@@ -34,7 +34,7 @@
          "name":"lyrical",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/lyrical.png"
 },
       }
