@@ -5,9 +5,16 @@
       "bakasweed":{ 
          "name":"bakasweed",
          "type":"cape",
-         "scale":0.01,
+         "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/bakasweed.png"
+},
+      "green":{ 
+         "name":"green",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/green.png"
       }
    }
 }
