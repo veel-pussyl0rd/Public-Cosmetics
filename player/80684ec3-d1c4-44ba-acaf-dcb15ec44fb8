@@ -7,7 +7,7 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/trey.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/trey.png"
 },
       "black":{ 
          "name":"black",
