@@ -1,20 +1,3 @@
-{ 
-   "uuid":"17d1db16-65a7-41c8-abcb-ec139bc43b51",
-   "username":null,
-   "cosmetics":{ 
-      "betacape":{ 
-         "name":"venezuela",      
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/betacape.png"
-},
-      "bone":{ 
-         "name":"bone",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/bone.png"
-      }
-   }
-}
+{"uuid":"17d1db16-65a7-41c8-abcb-ec139bc43b51","username":null,"cosmetics":{"viperpink":
+{"name":"viperpink","type":"cape","scale":0.16,"active":true,"resourceLocation":"viperpink"},"pink":
+{"name":"pink","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"pink"}}}
