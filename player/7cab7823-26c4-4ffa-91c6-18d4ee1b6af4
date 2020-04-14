@@ -3,7 +3,7 @@
 {"name":"australia","type":"cape","scale":0.16,"active":false,"resourceLocation":"australia"},"belgium":
 {"name":"belgium","type":"cape","scale":0.16,"active":false,"resourceLocation":"belgium"},"brazil":
 {"name":"brazil","type":"cape","scale":0.16,"active":false,"resourceLocation":"brazil"},"canada":
-{"name":"canada","type":"cape","scale":0.16,"active":false,"resourceLocation":"canada"},"chile":
+{"name":"canada","type":"cape","scale":0.16,"active":true,"resourceLocation":"canada"},"chile":
 {"name":"chile","type":"cape","scale":0.16,"active":false,"resourceLocation":"chile"},"croatia":
 {"name":"croatia","type":"cape","scale":0.16,"active":false,"resourceLocation":"croatia"},"france":
 {"name":"france","type":"cape","scale":0.16,"active":false,"resourceLocation":"france"},"germany":
@@ -26,10 +26,10 @@
 {"name":"southkorea","type":"cape","scale":0.16,"active":false,"resourceLocation":"southkorea"},"spain":
 {"name":"spain","type":"cape","scale":0.16,"active":false,"resourceLocation":"spain"},"sweden":
 {"name":"sweden","type":"cape","scale":0.16,"active":false,"resourceLocation":"sweden"},"uk":
-{"name":"uk","type":"cape","scale":0.16,"active":true,"resourceLocation":"uk"},"usa":
+{"name":"uk","type":"cape","scale":0.16,"active":false,"resourceLocation":"uk"},"usa":
 {"name":"usa","type":"cape","scale":0.16,"active":false,"resourceLocation":"usa"},"venezuela":
-{"name":"venezuela","type":"cape","scale":0.16,"active":true,"resourceLocation":"venezuela"},"red":
-{"name":"red","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"red"},"black":
+{"name":"venezuela","type":"cape","scale":0.16,"active":false,"resourceLocation":"venezuela"},"red":
+{"name":"red","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"red"},"black":
 {"name":"black","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black"},"blue":
 {"name":"blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"blue"},"darkblue":
 {"name":"darkblue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"darkblue"},"green":
