@@ -1,1 +1,8 @@
-
+{"uuid":"c7aeea23-a4e1-4794-87ed-e50ea9fbd2fa","username":null,"cosmetics":{"2016":
+{"name":"2016","type":"cape","scale":0.16,"active":true,"resourceLocation":"2016"},"lunar_client_1":
+{"name":"lunar_client_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_client_1"},"lunar_client_4":
+{"name":"lunar_client_4","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_client_4"},"lunar_network_3":
+{"name":"lunar_network_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_network_3"},"black":
+{"name":"black","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"black"},"red":
+{"name":"red","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"red"},"bone":
+{"name":"bone","type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"bone"}}}
