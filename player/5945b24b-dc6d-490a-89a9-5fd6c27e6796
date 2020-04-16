@@ -3,7 +3,7 @@
 {"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"2013":
 {"name":"2013","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013"},"2015":
 {"name":"2015","type":"cape","scale":0.16,"active":false,"resourceLocation":"2015"},"2016":
-{"name":"2016","type":"cape","scale":0.16,"active":true,"resourceLocation":"2016"},"animalfox":
+{"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"animalfox":
 {"name":"animalfox","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalfox"},"animalkitten":
 {"name":"animalkitten","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalkitten"},"animalkoala":
 {"name":"animalkoala","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalkoala"},"animallion":
@@ -32,7 +32,7 @@
 {"name":"canada","type":"cape","scale":0.16,"active":false,"resourceLocation":"canada"},"champagne":
 {"name":"champagne","type":"cape","scale":0.16,"active":false,"resourceLocation":"champagne"},"chile":
 {"name":"chile","type":"cape","scale":0.16,"active":false,"resourceLocation":"chile"},"christmasblue":
-{"name":"christmasblue","type":"cape","scale":0.16,"active":true,"resourceLocation":"christmasblue"},"christmasred":
+{"name":"christmasblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmasblue"},"christmasred":
 {"name":"christmasred","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmasred"},"christmassanta":
 {"name":"christmassanta","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmassanta"},"christmassnowflake":
 {"name":"christmassnowflake","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmassnowflake"},"christmassnowman":
@@ -91,7 +91,7 @@
 {"name":"lunar_network_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_network_2"},"lunar_network_3":
 {"name":"lunar_network_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_network_3"},"lunarclientblue":
 {"name":"lunarclientblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarclientblue"},"lunarirelandlogo":
-{"name":"lunarirelandlogo","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunarirelandlogo"},"map1eotw":
+{"name":"lunarirelandlogo","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarirelandlogo"},"map1eotw":
 {"name":"map1eotw","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1eotw"},"map1nasa":
 {"name":"map1nasa","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1nasa"},"marcel":
 {"name":"marcel","type":"cape","scale":0.16,"active":false,"resourceLocation":"marcel"},"meezoid":
@@ -149,7 +149,7 @@
 {"name":"season1_nodebuff","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_nodebuff"},"season1_soup":
 {"name":"season1_soup","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_soup"},"season1_sumo":
 {"name":"season1_sumo","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_sumo"},"season1_uhc":
-{"name":"season1_uhc","type":"cape","scale":0.16,"active":true,"resourceLocation":"season1_uhc"},"season1_vaultbattles":
+{"name":"season1_uhc","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_uhc"},"season1_vaultbattles":
 {"name":"season1_vaultbattles","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_vaultbattles"},"season3archer":
 {"name":"season3archer","type":"cape","scale":0.16,"active":false,"resourceLocation":"season3archer"},"season3axe":
 {"name":"season3axe","type":"cape","scale":0.16,"active":false,"resourceLocation":"season3axe"},"season3bridges":
@@ -208,7 +208,7 @@
 {"name":"ultra_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"ultra_cape_2"},"usa":
 {"name":"usa","type":"cape","scale":0.16,"active":false,"resourceLocation":"usa"},"valentine_cape_1":
 {"name":"valentine_cape_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_1"},"valentine_cape_2":
-{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":true,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
+{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
 {"name":"valentine_cape_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_3"},"valentine_cape_4":
 {"name":"valentine_cape_4","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_4"},"valentinecupid":
 {"name":"valentinecupid","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinecupid"},"valentinehearts":
@@ -240,7 +240,7 @@
 {"name":"darkblue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"darkblue"},"green":
 {"name":"green","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"green"},"indigo":
 {"name":"indigo","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"indigo"},"orange":
-{"name":"orange","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"orange"},"pink":
+{"name":"orange","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"orange"},"pink":
 {"name":"pink","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"pink"},"purple":
 {"name":"purple","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"purple"},"turquoise":
 {"name":"turquoises","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"turquoise"},"ice":
