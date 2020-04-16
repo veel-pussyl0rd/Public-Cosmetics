@@ -61,7 +61,7 @@
 {"name":"halloweenjoker","type":"cape","scale":0.16,"active":false,"resourceLocation":"halloweenjoker"},"halloweenwitch":
 {"name":"halloweenwitch","type":"cape","scale":0.16,"active":false,"resourceLocation":"halloweenwitch"},"Hannahxxrose":
 {"name":"Hannahxxrose","type":"cape","scale":0.16,"active":false,"resourceLocation":"Hannahxxrose"},"Hannahxxrose2":
-{"name":"Hannahxxrose2","type":"cape","scale":0.16,"active":true,"resourceLocation":"Hannahxxrose2"},"heart1":
+{"name":"Hannahxxrose2","type":"cape","scale":0.16,"active":false,"resourceLocation":"Hannahxxrose2"},"heart1":
 {"name":"heart1","type":"cape","scale":0.16,"active":false,"resourceLocation":"heart1"},"heart2":
 {"name":"heart2","type":"cape","scale":0.16,"active":false,"resourceLocation":"heart2"},"ireland":
 {"name":"ireland","type":"cape","scale":0.16,"active":false,"resourceLocation":"ireland"},"israel":
@@ -120,7 +120,7 @@
 {"name":"pinkawarenessheart","type":"cape","scale":0.16,"active":false,"resourceLocation":"pinkawarenessheart"},"poland":
 {"name":"poland","type":"cape","scale":0.16,"active":false,"resourceLocation":"poland"},"portugal":
 {"name":"portugal","type":"cape","scale":0.16,"active":false,"resourceLocation":"portugal"},"pride":
-{"name":"pride","type":"cape","scale":0.16,"active":true,"resourceLocation":"pride"},"rain":
+{"name":"pride","type":"cape","scale":0.16,"active":false,"resourceLocation":"pride"},"rain":
 {"name":"rain","type":"cape","scale":0.16,"active":false,"resourceLocation":"rain"},"raindynasty":
 {"name":"raindynasty","type":"cape","scale":0.16,"active":false,"resourceLocation":"raindynasty"},"rapidraidz":
 {"name":"rapidraidz","type":"cape","scale":0.16,"active":false,"resourceLocation":"rapidraidz"},"refraction":
@@ -149,7 +149,7 @@
 {"name":"season1_nodebuff","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_nodebuff"},"season1_soup":
 {"name":"season1_soup","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_soup"},"season1_sumo":
 {"name":"season1_sumo","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_sumo"},"season1_uhc":
-{"name":"season1_uhc","type":"cape","scale":0.16,"active":true,"resourceLocation":"season1_uhc"},"season1_vaultbattles":
+{"name":"season1_uhc","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_uhc"},"season1_vaultbattles":
 {"name":"season1_vaultbattles","type":"cape","scale":0.16,"active":false,"resourceLocation":"season1_vaultbattles"},"season3archer":
 {"name":"season3archer","type":"cape","scale":0.16,"active":false,"resourceLocation":"season3archer"},"season3axe":
 {"name":"season3axe","type":"cape","scale":0.16,"active":false,"resourceLocation":"season3axe"},"season3bridges":
@@ -178,7 +178,7 @@
 {"name":"stpatricksclover","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksclover"},"stpatricksgold":
 {"name":"stpatricksgold","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksgold"},"stpatricksgoodluck":
 {"name":"stpatricksgoodluck","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksgoodluck"},"stpatrickshat":
-{"name":"stpatrickshat","type":"cape","scale":0.16,"active":true,"resourceLocation":"stpatrickshat"},"stpatrickslogo":
+{"name":"stpatrickshat","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatrickshat"},"stpatrickslogo":
 {"name":"stpatrickslogo","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatrickslogo"},"suchspeed":
 {"name":"suchspeed","type":"cape","scale":0.16,"active":false,"resourceLocation":"suchspeed"},"suchspeedflame":
 {"name":"suchspeedflame","type":"cape","scale":0.16,"active":false,"resourceLocation":"suchspeedflame"},"suchspeedlava":
