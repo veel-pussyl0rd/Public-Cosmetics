@@ -3,7 +3,7 @@
 {"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"2013":
 {"name":"2013","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013"},"2015":
 {"name":"2015","type":"cape","scale":0.16,"active":false,"resourceLocation":"2015"},"2016":
-{"name":"2016","type":"cape","scale":0.16,"active":true,"resourceLocation":"2016"},"animalfox":
+{"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"animalfox":
 {"name":"animalfox","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalfox"},"animalkitten":
 {"name":"animalkitten","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalkitten"},"animalkoala":
 {"name":"animalkoala","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalkoala"},"animallion":
@@ -32,7 +32,7 @@
 {"name":"canada","type":"cape","scale":0.16,"active":false,"resourceLocation":"canada"},"champagne":
 {"name":"champagne","type":"cape","scale":0.16,"active":false,"resourceLocation":"champagne"},"chile":
 {"name":"chile","type":"cape","scale":0.16,"active":false,"resourceLocation":"chile"},"christmasblue":
-{"name":"christmasblue","type":"cape","scale":0.16,"active":true,"resourceLocation":"christmasblue"},"christmasred":
+{"name":"christmasblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmasblue"},"christmasred":
 {"name":"christmasred","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmasred"},"christmassanta":
 {"name":"christmassanta","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmassanta"},"christmassnowflake":
 {"name":"christmassnowflake","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmassnowflake"},"christmassnowman":
@@ -110,7 +110,7 @@
 {"name":"mythicwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"mythicwhite"},"nasa":
 {"name":"nasa","type":"cape","scale":0.16,"active":false,"resourceLocation":"nasa"},"netherlands":
 {"name":"netherlands","type":"cape","scale":0.16,"active":false,"resourceLocation":"netherlands"},"newyear2020":
-{"name":"newyear2020","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyear2020"},"newyearfireworks":
+{"name":"newyear2020","type":"cape","scale":0.16,"active":true,"resourceLocation":"newyear2020"},"newyearfireworks":
 {"name":"newyearfireworks","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyearfireworks"},"newzealand":
 {"name":"newzealand","type":"cape","scale":0.16,"active":false,"resourceLocation":"newzealand"},"norway":
 {"name":"norway","type":"cape","scale":0.16,"active":false,"resourceLocation":"norway"},"peru":
@@ -235,7 +235,7 @@
 {"name":"zonixblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixblack"},"zonixwhite":
 {"name":"zonixwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixwhite"},"red":
 {"name":"red","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"red"},"black":
-{"name":"black","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black"},"blue":
+{"name":"black","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"black"},"blue":
 {"name":"blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"blue"},"darkblue":
 {"name":"darkblue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"darkblue"},"green":
 {"name":"green","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"green"},"indigo":
