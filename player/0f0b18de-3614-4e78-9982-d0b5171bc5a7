@@ -1,4 +1,4 @@
-{"uuid":"0f0b18de-3614-4e78-9982-d0b5171bc5a7","username":null,"cosmetics":{"420":
+{"uuid":"7cab7823-26c4-4ffa-91c6-18d4ee1b6af4","username":null,"cosmetics":{"420":
 {"name":"420","type":"cape","scale":0.16,"active":false,"resourceLocation":"420"},"2011":
 {"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"2013":
 {"name":"2013","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013"},"2015":
@@ -110,12 +110,12 @@
 {"name":"mythicwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"mythicwhite"},"nasa":
 {"name":"nasa","type":"cape","scale":0.16,"active":false,"resourceLocation":"nasa"},"netherlands":
 {"name":"netherlands","type":"cape","scale":0.16,"active":false,"resourceLocation":"netherlands"},"newyear2020":
-{"name":"newyear2020","type":"cape","scale":0.16,"active":true,"resourceLocation":"newyear2020"},"newyearfireworks":
+{"name":"newyear2020","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyear2020"},"newyearfireworks":
 {"name":"newyearfireworks","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyearfireworks"},"newzealand":
 {"name":"newzealand","type":"cape","scale":0.16,"active":false,"resourceLocation":"newzealand"},"norway":
 {"name":"norway","type":"cape","scale":0.16,"active":false,"resourceLocation":"norway"},"peru":
 {"name":"peru","type":"cape","scale":0.16,"active":false,"resourceLocation":"peru"},"phub":
-{"name":"phub","type":"cape","scale":0.16,"active":false,"resourceLocation":"phub"},"pi_black":
+{"name":"phub","type":"cape","scale":0.16,"active":true,"resourceLocation":"phub"},"pi_black":
 {"name":"pi_black","type":"cape","scale":0.16,"active":false,"resourceLocation":"pi_black"},"pinkawarenessheart":
 {"name":"pinkawarenessheart","type":"cape","scale":0.16,"active":false,"resourceLocation":"pinkawarenessheart"},"poland":
 {"name":"poland","type":"cape","scale":0.16,"active":false,"resourceLocation":"poland"},"portugal":
@@ -178,7 +178,7 @@
 {"name":"stpatricksclover","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksclover"},"stpatricksgold":
 {"name":"stpatricksgold","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksgold"},"stpatricksgoodluck":
 {"name":"stpatricksgoodluck","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksgoodluck"},"stpatrickshat":
-{"name":"stpatrickshat","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatrickshat"},"stpatrickslogo":
+{"name":"stpatrickshat","type":"cape","scale":0.16,"active":true,"resourceLocation":"stpatrickshat"},"stpatrickslogo":
 {"name":"stpatrickslogo","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatrickslogo"},"suchspeed":
 {"name":"suchspeed","type":"cape","scale":0.16,"active":false,"resourceLocation":"suchspeed"},"suchspeedflame":
 {"name":"suchspeedflame","type":"cape","scale":0.16,"active":false,"resourceLocation":"suchspeedflame"},"suchspeedlava":
@@ -208,7 +208,7 @@
 {"name":"ultra_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"ultra_cape_2"},"usa":
 {"name":"usa","type":"cape","scale":0.16,"active":false,"resourceLocation":"usa"},"valentine_cape_1":
 {"name":"valentine_cape_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_1"},"valentine_cape_2":
-{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
+{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
 {"name":"valentine_cape_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_3"},"valentine_cape_4":
 {"name":"valentine_cape_4","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_4"},"valentinecupid":
 {"name":"valentinecupid","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinecupid"},"valentinehearts":
