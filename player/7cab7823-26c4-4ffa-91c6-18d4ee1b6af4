@@ -239,7 +239,7 @@
 {"name":"blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"blue"},"darkblue":
 {"name":"darkblue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"darkblue"},"green":
 {"name":"green","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"green"},"indigo":
-{"name":"indigo","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"indigo"},"orange":
+{"name":"indigo","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"indigo"},"orange":
 {"name":"orange","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"orange"},"pink":
 {"name":"pink","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"pink"},"purple":
 {"name":"purple","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"purple"},"turquoise":
