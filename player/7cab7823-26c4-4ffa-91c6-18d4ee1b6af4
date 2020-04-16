@@ -1,4 +1,4 @@
-{"uuid":"7cab7823-26c4-4ffa-91c6-18d4ee1b6af4","username":null,"cosmetics":{"420":
+{"uuid":"5945b24b-dc6d-490a-89a9-5fd6c27e6796","username":null,"cosmetics":{"420":
 {"name":"420","type":"cape","scale":0.16,"active":false,"resourceLocation":"420"},"2011":
 {"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"2013":
 {"name":"2013","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013"},"2015":
@@ -91,7 +91,7 @@
 {"name":"lunar_network_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_network_2"},"lunar_network_3":
 {"name":"lunar_network_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_network_3"},"lunarclientblue":
 {"name":"lunarclientblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarclientblue"},"lunarirelandlogo":
-{"name":"lunarirelandlogo","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunarirelandlogo"},"map1eotw":
+{"name":"lunarirelandlogo","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarirelandlogo"},"map1eotw":
 {"name":"map1eotw","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1eotw"},"map1nasa":
 {"name":"map1nasa","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1nasa"},"marcel":
 {"name":"marcel","type":"cape","scale":0.16,"active":false,"resourceLocation":"marcel"},"meezoid":
@@ -110,8 +110,8 @@
 {"name":"mythicwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"mythicwhite"},"nasa":
 {"name":"nasa","type":"cape","scale":0.16,"active":false,"resourceLocation":"nasa"},"netherlands":
 {"name":"netherlands","type":"cape","scale":0.16,"active":false,"resourceLocation":"netherlands"},"newyear2020":
-{"name":"newyear2020","type":"cape","scale":0.16,"active":true,"resourceLocation":"newyear2020"},"newyearfireworks":
-{"name":"newyearfireworks","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyearfireworks"},"newzealand":
+{"name":"newyear2020","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyear2020"},"newyearfireworks":
+{"name":"newyearfireworks","type":"cape","scale":0.16,"active":true,"resourceLocation":"newyearfireworks"},"newzealand":
 {"name":"newzealand","type":"cape","scale":0.16,"active":false,"resourceLocation":"newzealand"},"norway":
 {"name":"norway","type":"cape","scale":0.16,"active":false,"resourceLocation":"norway"},"peru":
 {"name":"peru","type":"cape","scale":0.16,"active":false,"resourceLocation":"peru"},"phub":
@@ -178,7 +178,7 @@
 {"name":"stpatricksclover","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksclover"},"stpatricksgold":
 {"name":"stpatricksgold","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksgold"},"stpatricksgoodluck":
 {"name":"stpatricksgoodluck","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksgoodluck"},"stpatrickshat":
-{"name":"stpatrickshat","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatrickshat"},"stpatrickslogo":
+{"name":"stpatrickshat","type":"cape","scale":0.16,"active":true,"resourceLocation":"stpatrickshat"},"stpatrickslogo":
 {"name":"stpatrickslogo","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatrickslogo"},"suchspeed":
 {"name":"suchspeed","type":"cape","scale":0.16,"active":false,"resourceLocation":"suchspeed"},"suchspeedflame":
 {"name":"suchspeedflame","type":"cape","scale":0.16,"active":false,"resourceLocation":"suchspeedflame"},"suchspeedlava":
@@ -208,7 +208,7 @@
 {"name":"ultra_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"ultra_cape_2"},"usa":
 {"name":"usa","type":"cape","scale":0.16,"active":false,"resourceLocation":"usa"},"valentine_cape_1":
 {"name":"valentine_cape_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_1"},"valentine_cape_2":
-{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":true,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
+{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
 {"name":"valentine_cape_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_3"},"valentine_cape_4":
 {"name":"valentine_cape_4","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_4"},"valentinecupid":
 {"name":"valentinecupid","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinecupid"},"valentinehearts":
@@ -240,7 +240,7 @@
 {"name":"darkblue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"darkblue"},"green":
 {"name":"green","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"green"},"indigo":
 {"name":"indigo","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"indigo"},"orange":
-{"name":"orange","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"orange"},"pink":
+{"name":"orange","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"orange"},"pink":
 {"name":"pink","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"pink"},"purple":
 {"name":"purple","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"purple"},"turquoise":
 {"name":"turquoises","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"turquoise"},"ice":
