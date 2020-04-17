@@ -39,7 +39,7 @@
 {"name":"christmassnowman","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmassnowman"},"newyearfireworks":
 {"name":"newyearfireworks","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyearfireworks"},"christmastree":
 {"name":"christmastree","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmastree"},"CheatBreaker_Black":
-{"name":"CheatBreaker_Black","type":"cape","scale":0.16,"active":true,"resourceLocation":"CheatBreaker_Black"},"CheatBreaker_White":
+{"name":"CheatBreaker_Black","type":"cape","scale":0.16,"active":false,"resourceLocation":"CheatBreaker_Black"},"CheatBreaker_White":
 {"name":"CheatBreaker_White","type":"cape","scale":0.16,"active":false,"resourceLocation":"CheatBreaker_White"},"croatia":
 {"name":"croatia","type":"cape","scale":0.16,"active":false,"resourceLocation":"croatia"},"dauntless":
 {"name":"dauntless","type":"cape","scale":0.16,"active":false,"resourceLocation":"dauntless"},"djibouti":
@@ -114,7 +114,7 @@
 {"name":"mythicwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"mythicwhite"},"nasa":
 {"name":"nasa","type":"cape","scale":0.16,"active":false,"resourceLocation":"nasa"},"netherlands":
 {"name":"netherlands","type":"cape","scale":0.16,"active":false,"resourceLocation":"netherlands"},"newyear2020":
-{"name":"newyear2020","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyear2020"},"newyearfireworks":
+{"name":"newyear2020","type":"cape","scale":0.16,"active":true,"resourceLocation":"newyear2020"},"newyearfireworks":
 {"name":"newyearfireworks","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyearfireworks"},"newzealand":
 {"name":"newzealand","type":"cape","scale":0.16,"active":false,"resourceLocation":"newzealand"},"norway":
 {"name":"norway","type":"cape","scale":0.16,"active":false,"resourceLocation":"norway"},"peru":
@@ -238,7 +238,7 @@
 {"name":"youtubeheart","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtubeheart"},"zonixblack":
 {"name":"zonixblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixblack"},"zonixwhite":
 {"name":"zonixwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixwhite"},"red":
-{"name":"red","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"red"},"black":
+{"name":"red","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"red"},"black":
 {"name":"black","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black"},"blue":
 {"name":"blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"blue"},"darkblue":
 {"name":"darkblue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"darkblue"},"green":
@@ -249,7 +249,7 @@
 {"name":"black_blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black_blue"},"black_orange":
 {"name":"black_orange","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black_orange"},"black_red":
 {"name":"black_red","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black_red"},"normal":
-{"name":"normal","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"normal"},"normal_blue":
+{"name":"normal","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"normal"},"normal_blue":
 {"name":"normal_blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"normal_blue"},"normal_green":
 {"name":"normal_green","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"normal_green"},"normal_magenta":
 {"name":"normal_magenta","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"normal_magenta"},"normal_mint":
