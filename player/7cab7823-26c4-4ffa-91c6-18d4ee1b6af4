@@ -1,7 +1,7 @@
 {"uuid":"7cab7823-26c4-4ffa-91c6-18d4ee1b6af4","username":null,"cosmetics":{"420":
 {"name":"420","type":"cape","scale":0.16,"active":false,"resourceLocation":"420"},"2011":
-{"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"Lunar_Gold":
-{"name":"Lunar_Gold","type":"cape","scale":0.16,"active":true,"resourceLocation":"Lunar_Gold"},"2015":
+{"name":"2011","type":"cape","scale":0.16,"active":false,"resourceLocation":"2011"},"2013":
+{"name":"2013","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013"},"2015":
 {"name":"2015","type":"cape","scale":0.16,"active":false,"resourceLocation":"2015"},"2016":
 {"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"animalfox":
 {"name":"animalfox","type":"cape","scale":0.16,"active":false,"resourceLocation":"animalfox"},"animalkitten":
@@ -38,7 +38,9 @@
 {"name":"christmassnowflake","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmassnowflake"},"christmassnowman":
 {"name":"christmassnowman","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmassnowman"},"newyearfireworks":
 {"name":"newyearfireworks","type":"cape","scale":0.16,"active":false,"resourceLocation":"newyearfireworks"},"christmastree":
-{"name":"christmastree","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmastree"},"croatia":
+{"name":"christmastree","type":"cape","scale":0.16,"active":false,"resourceLocation":"christmastree"},"CheatBreaker_Black":
+{"name":"CheatBreaker_Black","type":"cape","scale":0.16,"active":true,"resourceLocation":"CheatBreaker_Black"},"CheatBreaker_White":
+{"name":"CheatBreaker_White","type":"cape","scale":0.16,"active":false,"resourceLocation":"CheatBreaker_White"},"croatia":
 {"name":"croatia","type":"cape","scale":0.16,"active":false,"resourceLocation":"croatia"},"dauntless":
 {"name":"dauntless","type":"cape","scale":0.16,"active":false,"resourceLocation":"dauntless"},"djibouti":
 {"name":"djibouti","type":"cape","scale":0.16,"active":false,"resourceLocation":"djibouti"},"dragneel":
@@ -91,7 +93,9 @@
 {"name":"lunar_network_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_network_2"},"lunar_network_3":
 {"name":"lunar_network_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_network_3"},"lunarclientblue":
 {"name":"lunarclientblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarclientblue"},"lunarirelandlogo":
-{"name":"lunarirelandlogo","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarirelandlogo"},"map1eotw":
+{"name":"lunarirelandlogo","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunarirelandlogo"},"Lunar_Gold":
+{"name":"Lunar_Gold","type":"cape","scale":0.16,"active":false,"resourceLocation":"Lunar_Gold"},"Lunar_Gold_2":
+{"name":"Lunar_Gold_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"Lunar_Gold_2"},"map1eotw":
 {"name":"map1eotw","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1eotw"},"map1nasa":
 {"name":"map1nasa","type":"cape","scale":0.16,"active":false,"resourceLocation":"map1nasa"},"marcel":
 {"name":"marcel","type":"cape","scale":0.16,"active":false,"resourceLocation":"marcel"},"meezoid":
@@ -245,7 +249,7 @@
 {"name":"black_blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black_blue"},"black_orange":
 {"name":"black_orange","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black_orange"},"black_red":
 {"name":"black_red","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black_red"},"normal":
-{"name":"normal","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"normal"},"normal_blue":
+{"name":"normal","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"normal"},"normal_blue":
 {"name":"normal_blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"normal_blue"},"normal_green":
 {"name":"normal_green","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"normal_green"},"normal_magenta":
 {"name":"normal_magenta","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"normal_magenta"},"normal_mint":
