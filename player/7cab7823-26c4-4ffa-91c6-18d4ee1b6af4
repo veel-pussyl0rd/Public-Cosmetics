@@ -255,7 +255,7 @@
 {"name":"lightbluewings","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"lightbluewings"},"lightpinkwings":
 {"name":"lightpinkwings","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"lightpinkwings"},"mintwings":
 {"name":"mintwings","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"mintwings"},"pinkbutterfly":
-{"name":"pinkbutterfly","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"pinkbutterfly"},"rainbowbutterfly":
+{"name":"pinkbutterfly","type":"dragon_wings","scale":0.15,"active":true,"resourceLocation":"pinkbutterfly"},"rainbowbutterfly":
 {"name":"rainbowbutterfly","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"rainbowbutterfly"},"purple":
 {"name":"purple","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"purple"},"turquoise":
 {"name":"turquoises","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"turquoise"},"ice":
