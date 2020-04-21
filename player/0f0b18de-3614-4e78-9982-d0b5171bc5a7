@@ -237,7 +237,7 @@
 {"name":"red","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"red"},"black":
 {"name":"black","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black"},"blue":
 {"name":"blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"blue"},"darkblue":
-{"name":"darkblue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"darkblue"},"green":
+{"name":"darkblue","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"darkblue"},"green":
 {"name":"green","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"green"},"indigo":
 {"name":"indigo","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"indigo"},"orange":
 {"name":"orange","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"orange"},"pink":
