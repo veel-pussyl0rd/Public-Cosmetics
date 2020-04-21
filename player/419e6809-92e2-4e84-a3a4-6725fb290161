@@ -1,3 +1,3 @@
 {"uuid":"419e6809-92e2-4e84-a3a4-6725fb290161","username":null,"cosmetics":{"420":
-{"name":"420","type":"cape","scale":0.16,"active":true,"resourceLocation":"420"},:"green"
-,"type":"dragon_wings","scale":0.13,"active":false,"resourceLocation":"green"}}}
+{"name":"420","type":"cape","scale":0.16,"active":true,"resourceLocation":"420"},:,"green":
+{"name":"green","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"green"}}}
