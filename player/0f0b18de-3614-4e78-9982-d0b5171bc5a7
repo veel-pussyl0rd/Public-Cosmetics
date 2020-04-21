@@ -115,7 +115,7 @@
 {"name":"newzealand","type":"cape","scale":0.16,"active":false,"resourceLocation":"newzealand"},"norway":
 {"name":"norway","type":"cape","scale":0.16,"active":false,"resourceLocation":"norway"},"peru":
 {"name":"peru","type":"cape","scale":0.16,"active":false,"resourceLocation":"peru"},"phub":
-{"name":"phub","type":"cape","scale":0.16,"active":true,"resourceLocation":"phub"},"pi_black":
+{"name":"phub","type":"cape","scale":0.16,"active":false,"resourceLocation":"phub"},"pi_black":
 {"name":"pi_black","type":"cape","scale":0.16,"active":false,"resourceLocation":"pi_black"},"pinkawarenessheart":
 {"name":"pinkawarenessheart","type":"cape","scale":0.16,"active":false,"resourceLocation":"pinkawarenessheart"},"poland":
 {"name":"poland","type":"cape","scale":0.16,"active":false,"resourceLocation":"poland"},"portugal":
@@ -170,7 +170,7 @@
 {"name":"southkorea","type":"cape","scale":0.16,"active":false,"resourceLocation":"southkorea"},"spain":
 {"name":"spain","type":"cape","scale":0.16,"active":false,"resourceLocation":"spain"},"speedsilver":
 {"name":"speedsilver","type":"cape","scale":0.16,"active":false,"resourceLocation":"speedsilver"},"squads_map1_base":
-{"name":"squads_map1_base","type":"cape","scale":0.16,"active":false,"resourceLocation":"squads_map1_base"},"squads_map1_eotw":
+{"name":"squads_map1_base","type":"cape","scale":0.16,"active":true,"resourceLocation":"squads_map1_base"},"squads_map1_eotw":
 {"name":"squads_map1_eotw","type":"cape","scale":0.16,"active":false,"resourceLocation":"squads_map1_eotw"},"squads_map2_eotw":
 {"name":"squads_map2_eotw","type":"cape","scale":0.16,"active":false,"resourceLocation":"squads_map2_eotw"},"squadsmap6":
 {"name":"squadsmap6","type":"cape","scale":0.16,"active":false,"resourceLocation":"squadsmap6"},"stpatrick":
@@ -178,7 +178,7 @@
 {"name":"stpatricksclover","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksclover"},"stpatricksgold":
 {"name":"stpatricksgold","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksgold"},"stpatricksgoodluck":
 {"name":"stpatricksgoodluck","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatricksgoodluck"},"stpatrickshat":
-{"name":"stpatrickshat","type":"cape","scale":0.16,"active":true,"resourceLocation":"stpatrickshat"},"stpatrickslogo":
+{"name":"stpatrickshat","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatrickshat"},"stpatrickslogo":
 {"name":"stpatrickslogo","type":"cape","scale":0.16,"active":false,"resourceLocation":"stpatrickslogo"},"suchspeed":
 {"name":"suchspeed","type":"cape","scale":0.16,"active":false,"resourceLocation":"suchspeed"},"suchspeedflame":
 {"name":"suchspeedflame","type":"cape","scale":0.16,"active":false,"resourceLocation":"suchspeedflame"},"suchspeedlava":
@@ -215,7 +215,7 @@
 {"name":"valentinehearts","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinehearts"},"valentinehearts2":
 {"name":"valentinehearts2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinehearts2"},"valentinehearts2":
 {"name":"valentinehearts2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinehearts2"},"vapeblitzkrieg":
-{"name":"vapeblitzkrieg","type":"cape","scale":0.16,"active":false,"resourceLocation":"vapeblitzkrieg"},"venezuela":
+{"name":"vapeblitzkrieg","type":"cape","scale":0.16,"active":true,"resourceLocation":"vapeblitzkrieg"},"venezuela":
 {"name":"venezuela","type":"cape","scale":0.16,"active":false,"resourceLocation":"venezuela"},"viperblack":
 {"name":"viperblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblack"},"viperblue":
 {"name":"viperblue","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblue"},"viperorange":
@@ -235,7 +235,7 @@
 {"name":"zonixblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixblack"},"zonixwhite":
 {"name":"zonixwhite","type":"cape","scale":0.16,"active":false,"resourceLocation":"zonixwhite"},"red":
 {"name":"red","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"red"},"black":
-{"name":"black","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"black"},"blue":
+{"name":"black","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black"},"blue":
 {"name":"blue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"blue"},"darkblue":
 {"name":"darkblue","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"darkblue"},"green":
 {"name":"green","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"green"},"indigo":
