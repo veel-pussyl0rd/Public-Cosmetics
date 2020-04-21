@@ -1,20 +1,4 @@
-{ 
-   "uuid":"8a25587d-6e11-4992-9e5e-421f542ecf61",
-   "username":185k,
-   "cosmetics":{ 
-      "heart1":{ 
-         "name":"heart1",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/heart1.png"
-},
-      "black":{ 
-         "name":"black",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/black.png"
-      }
-   }
-}
+{"uuid":"8a25587d-6e11-4992-9e5e-421f542ecf61","username":null,"cosmetics":{"youtube_1":
+{"name":"youtube_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtube_1"},"youtube_2":
+{"name":"youtube_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"youtube_2"},"youtube_3":
+{"name":"youtube_3","type":"cape","scale":0.16,"active":true,"resourceLocation":"youtube_3"}}}
