@@ -1,1 +1,4 @@
-
+{"uuid":"d75f3b36-801c-4439-b902-dc45fa6b6891","username":null,"cosmetics":{"nasa":
+{"name":"nasa","type":"cape","scale":0.16,"active":true,"resourceLocation":"nasa"},"viperblack":
+{"name":"viperblack","type":"cape","scale":0.16,"active":false,"resourceLocation":"viperblack"},"normal":
+{"name":"normal","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"normal"}}}
