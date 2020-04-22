@@ -1,6 +1,10 @@
 {"uuid":"27d2249e-1f68-4b5c-b792-90bf383f386f","username":null,"cosmetics":{"2016":
 {"name":"2016","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016"},"speedsilver":
-{"name":"speedsilver","type":"cape","scale":0.16,"active":false,"resourceLocation":"speedsilver"},"lunar_network_3":
-{"name":"lunar_network_3","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunar_network_3"},"black":
-{"name":"black","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"black"},"bone":
-{"name":"bone","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"bone"}}}
+{"name":"speedsilver","type":"cape","scale":0.16,"active":false,"resourceLocation":"speedsilver"},"christmasred":
+{"name":"christmasred","type":"cape","scale":0.16,"active":true,"resourceLocation":"christmasred"},"australia":
+{"name":"australia","type":"cape","scale":0.16,"active":false,"resourceLocation":"australia"},"lunar_network_3":
+{"name":"lunar_network_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"lunar_network_3"},"black":
+{"name":"black","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black"},"ice":
+{"name":"ice","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"ice"},"red":
+{"name":"red","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"red"},"bone":
+{"name":"bone","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"bone"}}}
