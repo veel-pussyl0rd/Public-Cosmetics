@@ -1,2 +1,3 @@
 {"uuid":"8cec2ad9-e845-43ad-ae26-150010e4e098","username":null,"cosmetics":{"lunar_client_orange":
-{"name":"lunar_client_orange","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunar_client_orange"}}}
+{"name":"lunar_client_orange","type":"cape","scale":0.16,"active":true,"resourceLocation":"lunar_client_orange"},"black":
+{"name":"black","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"black"}}}
