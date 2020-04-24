@@ -247,8 +247,7 @@
 {"name":"orange","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"orange"},"pink":
 {"name":"pink","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"pink"},"black_blue":
 {"name":"black_blue","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black_blue"},"black_orange":
-{"name":"black_orange","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black_orange"},"black_red":
-{"name":"black_red","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black_red"},"normal":
+{"name":"black_orange","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"black_orange"},"normal":
 {"name":"normal","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"normal"},"butterfly_1":
 {"name":"butterfly_1","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"butterfly_1"},"butterfly_2":
 {"name":"butterfly_2","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"butterfly_2"},"lightbluewings":
